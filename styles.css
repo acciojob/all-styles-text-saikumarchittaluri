@@ -5,6 +5,8 @@ div{
 	border-left-color:green;
 	padding:10px;
 	font-size:20px;
+	text-decoration:underline;
+	color:white;
 }
 p{
 /* 	background-color:green; */
